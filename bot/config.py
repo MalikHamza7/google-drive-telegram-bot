@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5245975980:AAHQceQqOkANG32wm8-NAho8pF-O80QhVC0"
     APP_ID = "4780619"
     API_HASH = "bef269288c68a0c3fe2460805faca749"
-    DATABASE_URL = ""
+    DATABASE_URL = "mongodb+srv://<MalikHamza>:<MalikHamza0>@cluster0.mnvwfq8.mongodb.net/?retryWrites=true&w=majority"
     SUDO_USERS = "1380745489" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
